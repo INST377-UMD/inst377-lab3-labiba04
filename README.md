@@ -3,3 +3,5 @@
 
 # Name: Labibah Ali
 # Comments: 
+
+This is Lab 3 project is a simple web page using HTML and css. It includes a navigation bar, a rock-paper-scissors drop down, and a sidebar with the game rules.
